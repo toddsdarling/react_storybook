@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
+import { Counter } from './components/features/counter/Counter';
+import { DemoChart } from './components/features/chart/DemoChart';
 import './App.css';
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <span>
-          <span>Learn </span>
+          <span className="tw-font-bold">Learn </span>
           <a
             className="App-link"
             href="https://reactjs.org/"
@@ -51,6 +52,9 @@ function App() {
           </a>
         </span>
       </header>
+      <section>
+        <DemoChart />
+      </section>
     </div>
   );
 }
