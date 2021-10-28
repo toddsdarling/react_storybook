@@ -8,7 +8,8 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "data-server": "json-server --watch public/db.json --port 3004"
   },
   "dependencies": {
     "@craco/craco": "^6.4.0",
