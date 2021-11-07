@@ -3,9 +3,10 @@ import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 
 export function DemoChart() {
+  const chartTitle = 'Highcharts Example';
   const options = {
     title: {
-      text: 'Highcharts Example',
+      text: chartTitle,
     },
     series: [
       {
