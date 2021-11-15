@@ -23,14 +23,14 @@ Open [http://localhost:6006/](http://localhost:6006/) to view it in the browser.
 ### `npm run data-server`
 
 Runs json-server using test data. Resources below.<br />
-Open [http://localhost:3004/users](http://localhost:3004/users) to view it in the browser.
-Open [http://localhost:3004/clients](http://localhost:3004/clients) to view it in the browser.
-Open [http://localhost:3004/summary1](http://localhost:3004/summary1) to view it in the browser.
-Open [http://localhost:3004/summary2](http://localhost:3004/summary2) to view it in the browser.
-Open [http://localhost:3004/outcome_metrics](http://localhost:3004/outcome_metrics) to view it in the browser.
-Open [http://localhost:3004/behavior_metrics](http://localhost:3004/behavior_metrics) to view it in the browser.
-Open [http://localhost:3004/opportunities_summary](http://localhost:3004/opportunities_summary) to view it in the browser.
-Open [http://localhost:3004/opportunities_detail](http://localhost:3004/opportunities_detail) to view it in the browser.
+Open [http://localhost:3004/users](http://localhost:3004/users) to view it in the browser.<br />
+Open [http://localhost:3004/clients](http://localhost:3004/clients) to view it in the browser.<br />
+Open [http://localhost:3004/summary1](http://localhost:3004/summary1) to view it in the browser.<br />
+Open [http://localhost:3004/summary2](http://localhost:3004/summary2) to view it in the browser.<br />
+Open [http://localhost:3004/outcome_metrics](http://localhost:3004/outcome_metrics) to view it in the browser.<br />
+Open [http://localhost:3004/behavior_metrics](http://localhost:3004/behavior_metrics) to view it in the browser.<br />
+Open [http://localhost:3004/opportunities_summary](http://localhost:3004/opportunities_summary) to view it in the browser.<br />
+Open [http://localhost:3004/opportunities_detail](http://localhost:3004/opportunities_detail) to view it in the browser.<br />
 
 ### `npm run test`
 
