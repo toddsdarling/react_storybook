@@ -2,7 +2,7 @@ import React from 'react';
 import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 
-export function DemoChart() {
+export function NbosHighcharts() {
   const chartTitle = 'Highcharts Example';
   const options = {
     title: {

@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import { Counter } from '../../features/counter/Counter';
-import { DemoChart } from '../../molecules/DemoChart';
+import { NbosHighcharts } from '../../molecules/NbosHighcharts';
 import './style.css';
 import { Link } from 'react-router-dom';
 
@@ -60,7 +60,7 @@ export function HomePage() {
             Edit Page
           </Link>
         </div>
-        <DemoChart />
+        <NbosHighcharts />
       </section>
     </div>
   );
