@@ -4,7 +4,7 @@ import { NbosButton } from '../../components/atoms/NbosButton';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
-  title: 'Atoms/NbosButton',
+  title: 'Atoms/NbosButton2',
   component: NbosButton,
   // More on argTypes: https://storybook.js.org/docs/react/api/argtypes
   argTypes: {

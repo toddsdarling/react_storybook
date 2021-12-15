@@ -1,0 +1,6 @@
+.nbosSurface {
+  padding: 20px;
+  border: 1px solid #efefef;
+  box-shadow: 1px 1px 1px #ccc;
+  min-height: 50px;
+}
