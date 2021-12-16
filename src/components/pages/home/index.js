@@ -7,8 +7,8 @@ export function HomePage() {
   const userInfo = useSelector(state => state.userInfo);
   const dispatch = useDispatch();
 
-  useEffect(() => {
-    dispatch(fetchUserInfo());
+  useEffect(async () => {
+    await dispatch(fetchUserInfo());
   });
 
   return (
